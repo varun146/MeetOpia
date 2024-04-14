@@ -18,4 +18,4 @@ const HomeLayout = ({ children }: { children: ReactNode }) => {
     </main>
   )
 }
-export default HomeLayout 
+export default HomeLayout;
